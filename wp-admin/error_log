@@ -1,0 +1,74 @@
+[10-Jan-2016 20:02:02] wizard_viewed
+[10-Jan-2016 20:02:13] wizard_started
+[10-Jan-2016 20:02:14] wizard_step_viewed
+[10-Jan-2016 20:03:07] wizard_step_completed
+[10-Jan-2016 20:03:08] wizard_step_viewed
+[10-Jan-2016 20:03:12] wizard_step_completed
+[10-Jan-2016 20:03:12] wizard_step_completed
+[10-Jan-2016 20:03:13] wizard_step_viewed
+[10-Jan-2016 20:03:18] contact_page_built
+[10-Jan-2016 20:03:19] wizard_step_completed
+[10-Jan-2016 20:03:19] wizard_step_viewed
+[10-Jan-2016 20:04:12] wizard_step_viewed
+[10-Jan-2016 20:13:36] wizard_step_completed
+[10-Jan-2016 20:13:38] wizard_step_viewed
+[10-Jan-2016 20:35:10] wizard_hidden
+[10-Jan-2016 20:36:37] wizard_hidden
+[10-Jan-2016 20:40:58] mojo_plugin_deactivated
+[17-Jan-2016 05:31:41] PHP Fatal error:  Call to undefined method DateTime::setTimestamp() in /home2/truforge/public_html/wp-content/plugins/woocommerce-csvimport/woocommerce-csvimport.php on line 72
+[21-Jan-2016 03:38:17] PHP Fatal error:  Call to undefined method DateTime::setTimestamp() in /home2/truforge/public_html/wp-content/plugins/woocommerce-csvimport/woocommerce-csvimport.php on line 72
+[21-Jan-2016 03:40:40] PHP Fatal error:  Call to undefined method DateTime::setTimestamp() in /home2/truforge/public_html/wp-content/plugins/woocommerce-csvimport/woocommerce-csvimport.php on line 72
+[21-Jan-2016 03:58:08] PHP Fatal error:  Call to undefined method DateTime::setTimestamp() in /home2/truforge/public_html/wp-content/plugins/woocommerce-csvimport/woocommerce-csvimport.php on line 72
+[11-Feb-2016 00:38:48] PHP Fatal error:  Call to undefined method DateTime::setTimestamp() in /home2/truforge/public_html/wp-content/plugins/woocommerce-csvimport/woocommerce-csvimport.php on line 72
+[11-Feb-2016 00:50:29] PHP Fatal error:  Call to undefined method DateTime::setTimestamp() in /home2/truforge/public_html/wp-content/plugins/woocommerce-csvimport/woocommerce-csvimport.php on line 72
+[11-Feb-2016 00:53:45] PHP Fatal error:  Call to undefined method DateTime::setTimestamp() in /home2/truforge/public_html/wp-content/plugins/woocommerce-csvimport/woocommerce-csvimport.php on line 72
+[11-Feb-2016 00:55:42] PHP Fatal error:  Call to undefined method DateTime::setTimestamp() in /home2/truforge/public_html/wp-content/plugins/woocommerce-csvimport/woocommerce-csvimport.php on line 72
+[11-Feb-2016 00:56:03] PHP Fatal error:  Call to undefined method DateTime::setTimestamp() in /home2/truforge/public_html/wp-content/plugins/woocommerce-csvimport/woocommerce-csvimport.php on line 72
+[11-Feb-2016 00:56:21] PHP Fatal error:  Call to undefined method DateTime::setTimestamp() in /home2/truforge/public_html/wp-content/plugins/woocommerce-csvimport/woocommerce-csvimport.php on line 72
+[11-Feb-2016 00:59:16] PHP Fatal error:  Call to undefined method DateTime::setTimestamp() in /home2/truforge/public_html/wp-content/plugins/woocommerce-csvimport/woocommerce-csvimport.php on line 72
+[15-Feb-2016 05:59:43] PHP Fatal error:  Call to undefined method DateTime::setTimestamp() in /home2/truforge/public_html/wp-content/plugins/woocommerce-csvimport/woocommerce-csvimport.php on line 72
+[15-Feb-2016 06:00:23] PHP Fatal error:  Call to undefined method DateTime::setTimestamp() in /home2/truforge/public_html/wp-content/plugins/woocommerce-csvimport/woocommerce-csvimport.php on line 72
+[15-Feb-2016 06:10:42] PHP Fatal error:  Call to undefined method DateTime::setTimestamp() in /home2/truforge/public_html/wp-content/plugins/woocommerce-csvimport/woocommerce-csvimport.php on line 72
+[15-Feb-2016 06:14:07] PHP Fatal error:  Call to undefined method DateTime::setTimestamp() in /home2/truforge/public_html/wp-content/plugins/woocommerce-csvimport/woocommerce-csvimport.php on line 72
+[15-Feb-2016 06:14:44] PHP Fatal error:  Call to undefined method DateTime::setTimestamp() in /home2/truforge/public_html/wp-content/plugins/woocommerce-csvimport/woocommerce-csvimport.php on line 72
+[15-Feb-2016 06:15:06] PHP Fatal error:  Call to undefined method DateTime::setTimestamp() in /home2/truforge/public_html/wp-content/plugins/woocommerce-csvimport/woocommerce-csvimport.php on line 72
+[15-Feb-2016 06:16:37] PHP Fatal error:  Call to undefined method DateTime::setTimestamp() in /home2/truforge/public_html/wp-content/plugins/woocommerce-csvimport/woocommerce-csvimport.php on line 72
+[15-Feb-2016 06:19:56] PHP Fatal error:  Call to undefined method DateTime::setTimestamp() in /home2/truforge/public_html/wp-content/plugins/woocommerce-csvimport/woocommerce-csvimport.php on line 72
+[29-Aug-2016 22:12:23] PHP Fatal error:  Call to undefined method DateTime::setTimestamp() in /home2/truforge/public_html/wp-content/plugins/woocommerce-csvimport/woocommerce-csvimport.php on line 72
+[15-Sep-2016 06:43:41] WordPress database error Duplicate key name 'attribute_name' for query ALTER TABLE wp_ndwe_woocommerce_attribute_taxonomies ADD KEY `attribute_name` (`attribute_name`(191)) made by require_once('wp-load.php'), require_once('wp-config.php'), require_once('wp-settings.php'), do_action('init'), call_user_func_array, WC_Install::check_version, WC_Install::install, WC_Install::create_tables, dbDelta
+[15-Sep-2016 06:43:41] WordPress database error Duplicate key name 'download_order_key_product' for query ALTER TABLE wp_ndwe_woocommerce_downloadable_product_permissions ADD KEY `download_order_key_product` (`product_id`,`order_id`,`order_key`(191),`download_id`) made by require_once('wp-load.php'), require_once('wp-config.php'), require_once('wp-settings.php'), do_action('init'), call_user_func_array, WC_Install::check_version, WC_Install::install, WC_Install::create_tables, dbDelta
+[15-Sep-2016 06:43:41] WordPress database error Duplicate key name 'meta_key' for query ALTER TABLE wp_ndwe_woocommerce_order_itemmeta ADD KEY `meta_key` (`meta_key`(191)) made by require_once('wp-load.php'), require_once('wp-config.php'), require_once('wp-settings.php'), do_action('init'), call_user_func_array, WC_Install::check_version, WC_Install::install, WC_Install::create_tables, dbDelta
+[15-Sep-2016 06:43:41] WordPress database error Duplicate key name 'tax_rate_country' for query ALTER TABLE wp_ndwe_woocommerce_tax_rates ADD KEY `tax_rate_country` (`tax_rate_country`(191)) made by require_once('wp-load.php'), require_once('wp-config.php'), require_once('wp-settings.php'), do_action('init'), call_user_func_array, WC_Install::check_version, WC_Install::install, WC_Install::create_tables, dbDelta
+[15-Sep-2016 06:43:41] WordPress database error Duplicate key name 'tax_rate_state' for query ALTER TABLE wp_ndwe_woocommerce_tax_rates ADD KEY `tax_rate_state` (`tax_rate_state`(191)) made by require_once('wp-load.php'), require_once('wp-config.php'), require_once('wp-settings.php'), do_action('init'), call_user_func_array, WC_Install::check_version, WC_Install::install, WC_Install::create_tables, dbDelta
+[15-Sep-2016 06:43:41] WordPress database error Duplicate key name 'tax_rate_class' for query ALTER TABLE wp_ndwe_woocommerce_tax_rates ADD KEY `tax_rate_class` (`tax_rate_class`(191)) made by require_once('wp-load.php'), require_once('wp-config.php'), require_once('wp-settings.php'), do_action('init'), call_user_func_array, WC_Install::check_version, WC_Install::install, WC_Install::create_tables, dbDelta
+[15-Sep-2016 06:43:41] WordPress database error Duplicate key name 'location_type_code' for query ALTER TABLE wp_ndwe_woocommerce_tax_rate_locations ADD KEY `location_type_code` (`location_type`(40),`location_code`(90)) made by require_once('wp-load.php'), require_once('wp-config.php'), require_once('wp-settings.php'), do_action('init'), call_user_func_array, WC_Install::check_version, WC_Install::install, WC_Install::create_tables, dbDelta
+[15-Sep-2016 06:43:45] PHP Parse error:  syntax error, unexpected T_STRING in /home2/truforge/public_html/wp-content/plugins/woocommerce-csvimport/src/Allaerd/UploadErrorMessages.php on line 9
+[15-Sep-2016 06:44:02] PHP Parse error:  syntax error, unexpected T_STRING in /home2/truforge/public_html/wp-content/plugins/woocommerce-csvimport/src/Allaerd/UploadErrorMessages.php on line 9
+[15-Sep-2016 06:44:06] PHP Parse error:  syntax error, unexpected T_STRING in /home2/truforge/public_html/wp-content/plugins/woocommerce-csvimport/src/Allaerd/UploadErrorMessages.php on line 9
+[15-Sep-2016 06:54:50] PHP Parse error:  syntax error, unexpected T_STRING in /home2/truforge/public_html/wp-content/plugins/woocommerce-csvimport/src/Allaerd/UploadErrorMessages.php on line 9
+[15-Sep-2016 06:54:54] PHP Parse error:  syntax error, unexpected T_STRING in /home2/truforge/public_html/wp-content/plugins/woocommerce-csvimport/src/Allaerd/UploadErrorMessages.php on line 9
+[15-Sep-2016 15:39:23] PHP Parse error:  syntax error, unexpected T_STRING in /home2/truforge/public_html/wp-content/plugins/woocommerce-csvimport/src/Allaerd/UploadErrorMessages.php on line 9
+[15-Sep-2016 21:35:31] PHP Parse error:  syntax error, unexpected T_STRING in /home2/truforge/public_html/wp-content/plugins/woocommerce-csvimport/src/Allaerd/UploadErrorMessages.php on line 9
+[15-Sep-2016 22:58:28] PHP Parse error:  syntax error, unexpected T_STRING in /home2/truforge/public_html/wp-content/plugins/woocommerce-csvimport/src/Allaerd/UploadErrorMessages.php on line 9
+[15-Sep-2016 23:01:48] WordPress database error Duplicate key name 'attribute_name' for query ALTER TABLE wp_ndwe_woocommerce_attribute_taxonomies ADD KEY `attribute_name` (`attribute_name`(191)) made by activate_plugin, do_action('activate_woocommerce/woocommerce.php'), call_user_func_array, WC_Install::install, WC_Install::create_tables, dbDelta
+[15-Sep-2016 23:01:48] WordPress database error Duplicate key name 'download_order_key_product' for query ALTER TABLE wp_ndwe_woocommerce_downloadable_product_permissions ADD KEY `download_order_key_product` (`product_id`,`order_id`,`order_key`(191),`download_id`) made by activate_plugin, do_action('activate_woocommerce/woocommerce.php'), call_user_func_array, WC_Install::install, WC_Install::create_tables, dbDelta
+[15-Sep-2016 23:01:48] WordPress database error Duplicate key name 'meta_key' for query ALTER TABLE wp_ndwe_woocommerce_order_itemmeta ADD KEY `meta_key` (`meta_key`(191)) made by activate_plugin, do_action('activate_woocommerce/woocommerce.php'), call_user_func_array, WC_Install::install, WC_Install::create_tables, dbDelta
+[15-Sep-2016 23:01:48] WordPress database error Duplicate key name 'tax_rate_country' for query ALTER TABLE wp_ndwe_woocommerce_tax_rates ADD KEY `tax_rate_country` (`tax_rate_country`(191)) made by activate_plugin, do_action('activate_woocommerce/woocommerce.php'), call_user_func_array, WC_Install::install, WC_Install::create_tables, dbDelta
+[15-Sep-2016 23:01:48] WordPress database error Duplicate key name 'tax_rate_state' for query ALTER TABLE wp_ndwe_woocommerce_tax_rates ADD KEY `tax_rate_state` (`tax_rate_state`(191)) made by activate_plugin, do_action('activate_woocommerce/woocommerce.php'), call_user_func_array, WC_Install::install, WC_Install::create_tables, dbDelta
+[15-Sep-2016 23:01:48] WordPress database error Duplicate key name 'tax_rate_class' for query ALTER TABLE wp_ndwe_woocommerce_tax_rates ADD KEY `tax_rate_class` (`tax_rate_class`(191)) made by activate_plugin, do_action('activate_woocommerce/woocommerce.php'), call_user_func_array, WC_Install::install, WC_Install::create_tables, dbDelta
+[15-Sep-2016 23:01:48] WordPress database error Duplicate key name 'location_type_code' for query ALTER TABLE wp_ndwe_woocommerce_tax_rate_locations ADD KEY `location_type_code` (`location_type`(40),`location_code`(90)) made by activate_plugin, do_action('activate_woocommerce/woocommerce.php'), call_user_func_array, WC_Install::install, WC_Install::create_tables, dbDelta
+[15-Sep-2016 23:01:48] WordPress database error Duplicate key name 'location_type_code' for query ALTER TABLE wp_ndwe_woocommerce_shipping_zone_locations ADD KEY `location_type_code` (`location_type`(40),`location_code`(90)) made by activate_plugin, do_action('activate_woocommerce/woocommerce.php'), call_user_func_array, WC_Install::install, WC_Install::create_tables, dbDelta
+[15-Sep-2016 23:02:26] PHP Parse error:  syntax error, unexpected T_STRING in /home2/truforge/public_html/wp-content/plugins/woocommerce-csvimport/src/Allaerd/UploadErrorMessages.php on line 9
+[15-Sep-2016 23:02:28] PHP Parse error:  syntax error, unexpected T_STRING in /home2/truforge/public_html/wp-content/plugins/woocommerce-csvimport/src/Allaerd/UploadErrorMessages.php on line 9
+[15-Sep-2016 23:02:28] PHP Parse error:  syntax error, unexpected T_STRING in /home2/truforge/public_html/wp-content/plugins/woocommerce-csvimport/src/Allaerd/UploadErrorMessages.php on line 9
+[15-Sep-2016 23:03:15] PHP Parse error:  syntax error, unexpected T_STRING in /home2/truforge/public_html/wp-content/plugins/woocommerce-csvimport/src/Allaerd/UploadErrorMessages.php on line 9
+[15-Sep-2016 23:03:17] PHP Parse error:  syntax error, unexpected T_STRING in /home2/truforge/public_html/wp-content/plugins/woocommerce-csvimport/src/Allaerd/UploadErrorMessages.php on line 9
+[15-Sep-2016 23:03:17] PHP Parse error:  syntax error, unexpected T_STRING in /home2/truforge/public_html/wp-content/plugins/woocommerce-csvimport/src/Allaerd/UploadErrorMessages.php on line 9
+[15-Sep-2016 23:06:16] mojo_plugin_activated
+[15-Sep-2016 23:06:26] mojo_plugin_deactivated
+[15-Sep-2016 23:08:08] PHP Parse error:  syntax error, unexpected T_STRING in /home2/truforge/public_html/wp-content/plugins/woocommerce-csvimport/src/Allaerd/UploadErrorMessages.php on line 9
+[15-Sep-2016 23:08:10] PHP Parse error:  syntax error, unexpected T_STRING in /home2/truforge/public_html/wp-content/plugins/woocommerce-csvimport/src/Allaerd/UploadErrorMessages.php on line 9
+[15-Sep-2016 23:08:11] PHP Parse error:  syntax error, unexpected T_STRING in /home2/truforge/public_html/wp-content/plugins/woocommerce-csvimport/src/Allaerd/UploadErrorMessages.php on line 9
+[15-Sep-2016 23:09:18] PHP Parse error:  syntax error, unexpected T_STRING in /home2/truforge/public_html/wp-content/plugins/woocommerce-csvimport/src/Allaerd/UploadErrorMessages.php on line 9
+[15-Sep-2016 23:09:22] PHP Parse error:  syntax error, unexpected T_STRING in /home2/truforge/public_html/wp-content/plugins/woocommerce-csvimport/src/Allaerd/UploadErrorMessages.php on line 9
+[15-Sep-2016 23:09:22] PHP Parse error:  syntax error, unexpected T_STRING in /home2/truforge/public_html/wp-content/plugins/woocommerce-csvimport/src/Allaerd/UploadErrorMessages.php on line 9

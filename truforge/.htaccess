@@ -1,0 +1,6 @@
+
+RewriteEngine on
+RewriteCond %{HTTP_HOST} ^truforge\.com$ [OR]
+RewriteCond %{HTTP_HOST} ^www\.truforge\.com$
+RewriteRule ^/?$ "http\:\/\/truforge\.net\/" [R=302,L]
+
